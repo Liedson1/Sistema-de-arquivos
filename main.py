@@ -16,7 +16,7 @@ class Disco:
         self.ponteiro = None  
 
     def imprimir_disco(self):
-        print("\nEstado Atual do Disco:")
+        print("\nEstado do Disco:")
         print("****************************************")
         print("Bloco    Caracter    Ponteiro")
         for i, bloco in enumerate(self.blocos):
