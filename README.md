@@ -32,12 +32,12 @@ Este projeto foi criado para fins **educacionais** e para demonstrar o funcionam
 
 ### Instruções de Uso
 
-1. Clone este repositório ou faça o download do arquivo `so_menu (testado2.0).py`.
+1. Clone este repositório ou faça o download do arquivo `main.py`.
 2. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo está salvo.
 3. Execute o seguinte comando:
 
    ```bash
-   python so_menu\ \(testado2.0\).py
+   python main.py
    ```
 
 4. O menu interativo será exibido com as seguintes opções:
