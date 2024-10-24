@@ -86,7 +86,7 @@ O projeto possui a seguinte estrutura:
 Após criar alguns arquivos, o estado do disco pode ser exibido assim:
 
 ```
-Estado Atual do Disco:
+Estado do Disco:
 ****************************************
 Bloco    Caracter    Ponteiro
   0      H          1
